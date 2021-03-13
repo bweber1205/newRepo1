@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/GhostwhiteImpressionableWorkers/mlruns/0/fab37f62a4e84fc2b7c64aff6a98ce7a/artifacts
+end_time: 1615631568877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fab37f62a4e84fc2b7c64aff6a98ce7a
+run_uuid: fab37f62a4e84fc2b7c64aff6a98ce7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1615631568573
+status: 3
+tags: []
+user_id: runner
